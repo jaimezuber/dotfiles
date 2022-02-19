@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jaimezuber99@gmail.com
+	name = jaime zuber
